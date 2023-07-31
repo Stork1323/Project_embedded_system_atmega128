@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/Embedded_system_atmega128.X.production.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>131072</length>                 
+      <used>2798</used>                     
+      <free>128274</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>4096</length>                 
+      <used>1042</used>                     
+      <free>3054</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
